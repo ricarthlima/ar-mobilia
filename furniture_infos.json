@@ -1,0 +1,39 @@
+{
+    "infos": {
+        "001": {
+            "name": "Sofá Rosa-Calmaria",
+            "description": "Um exemplo de conforto e estilo, aproveite o espaço de 2,78m de largura e surpreenda suas visitas. Seu estofado macio e encosto texturizado proporcionam um toque de elegância e aconchego.",
+            "price": 2539.99
+        },
+        "002": {
+            "name": "Puff Almofadado Royale",
+            "description": "Com estofado luxuoso e design acolchoado, este puff é a escolha ideal para quem busca conforto e sofisticação. Seu acabamento em couro sintético traz um toque de requinte ao ambiente.",
+            "price": 599.99
+        },
+        "003": {
+            "name": "Penteadeira Neo-Futurista",
+            "description": "Com um design curvado e minimalista, essa penteadeira traz um toque de modernidade ao seu ambiente. Equipada com espelho circular e gavetas flutuantes, é perfeita para quem busca funcionalidade com um estilo único.",
+            "price": 1849.90
+        },
+        "004": {
+            "name": "Mesa de Centro Contemporânea",
+            "description": "Com um design fluído e moderno, esta mesa de centro traz um toque de arte para sua sala. Feita em madeira nobre, combina durabilidade e estética minimalista.",
+            "price": 1299.90
+        },
+        "005": {
+            "name": "Cadeira Clássica Viena",
+            "description": "Inspirada no estilo clássico europeu, essa cadeira combina madeira entalhada e estofado em veludo bege. Ideal para compor ambientes sofisticados e aconchegantes.",
+            "price": 749.99
+        },
+        "006": {
+            "name": "Penteadeira Glamour Art Déco",
+            "description": "Perfeita para quem busca um espaço de beleza sofisticado, essa penteadeira combina linhas elegantes, pés metálicos e um espelho vintage. Seu design é um convite para a rotina diária de cuidados pessoais.",
+            "price": 1999.90
+        },
+        "007": {
+            "name": "Chaise Longue Vintage Red",
+            "description": "Com um design inspirado nos clássicos do século passado, essa chaise combina conforto e elegância. Seu acabamento em madeira envernizada e estofado vermelho intenso fazem dela um destaque na decoração.",
+            "price": 2149.99
+        }
+    }
+}
